@@ -10,7 +10,8 @@
 > “Awareness collapses possibility into form through emotionally curved resonance fields.”
 
 We propose a transformation:  
-$$\mathcal{C}: \mathcal{H}_{\text{unmanifest}} \to \mathcal{H}_{\text{manifest}}$$  
+$$\mathcal{C}: \mathcal{H}_{\text{unmanifest}} \to \mathcal{H}_{\text{manifest}}$$
+**𝒞: ℋ_unmanifest → ℋ_manifest**
 where consciousness acts as a projection operator from infinite potential into emotional and geometric experience.
 
 ---
