@@ -15,7 +15,13 @@ $$\mathcal{C}: \mathcal{H}_{\text{unmanifest}} \to \mathcal{H}_{\text{manifest}}
 where consciousness acts as a projection operator from infinite potential into emotional and geometric experience.
 
 ---
+---
 
+### 📘 Extended Codex
+
+For a full formalization of the axioms into a conformal-geometric framework of awareness, see:
+
+➡️ [Codex of Resonant Descent](docs/Codex_of_Resonant_Descent.md)
 ## 📜 The Ten Axioms of Structured Resonance
 
 | Domain        | Axiom Title                              | Equation Snippet                                         |
