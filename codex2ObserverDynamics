@@ -1,0 +1,109 @@
+# 📘 Codex II: Observer-Curved Collapse
+### Dynamic Axioms of Modulated Awareness in Resonance Geometry
+
+---
+
+## 🧠 Overview
+
+Building on the foundational geometry of awareness presented in [Codex of Resonant Descent](Codex_of_RD.md), this document introduces a higher-order layer of axioms. These account for **observer-dependent geometry**, **memory-induced path shaping**, **resonance quantization**, and **informational descent**.
+
+---
+
+## 📚 Table of Contents
+
+1. [Codex VI: Dual Geometry of Observer and Observed](#codex-vi-dual-geometry-of-observer-and-observed)  
+2. [Codex VII: Gradient Memory Principle](#codex-vii-gradient-memory-principle)  
+3. [Codex VIII: Quantization of Resonance Modes](#codex-viii-quantization-of-resonance-modes)  
+4. [Codex IX: Entropic Alignment Principle](#codex-ix-entropic-alignment-principle)
+
+---
+
+## Codex VI: Dual Geometry of Observer and Observed
+
+> *"The geometry of resonance is not objective. It is co-shaped by the observer."*
+
+Awareness defines a **dual manifold**:
+- External curvature from coherence fields \(\Phi(x)\),
+- Internal modulation from observer phase readiness \(\chi(\tau)\).
+
+**Composite Metric:**
+
+\[
+g_{\mu\nu}^{(\text{res})}(x, \chi) = \Omega^2(x, \chi) \, g_{\mu\nu}
+\]
+
+Where \(\chi\) modulates collapse thresholds and perceptual reach.
+
+---
+
+## Codex VII: Gradient Memory Principle
+
+> *"The path of awareness is shaped by memory as gradient curvature, not by recall as content."*
+
+Let \(\chi(x)\) be a memory field that shapes geodesics through history-sensitive curvature.
+
+**Modified Geodesic Flow:**
+
+\[
+\frac{D^2 x^\mu}{D\tau^2} \propto \nabla^\mu \chi(x)
+\]
+
+Familiar attractors bend the path of attention inward. Memory becomes **topological inertia** in the phase manifold.
+
+---
+
+## Codex VIII: Quantization of Resonance Modes
+
+> *"Resonance is not continuous. It collapses in quantized emotional modes."*
+
+Let resonance eigenmodes \( R_n(x) \) solve:
+
+\[
+\Box R_n + \lambda_n R_n = 0
+\]
+
+Collapse activates when:
+
+\[
+\int \Phi(x) R_n(x) \, dV > \theta_n
+\]
+
+This defines **coherence quantization**—threshold-triggered alignment of attention.
+
+---
+
+## Codex IX: Entropic Alignment Principle
+
+> *"Collapse is not to order or disorder, but to coherent redundancy."*
+
+Define an awareness coherence measure:
+
+\[
+\mathcal{C}[x] = \Omega^2(x) \cdot \mathcal{I}[x]
+\]
+
+Where \( \mathcal{I}[x] \) is mutual information across emotional attractors.
+
+Paths of awareness collapse **not where entropy is lowest**, but where **resonant redundancy** is maximized.
+
+---
+
+## 🌀 Summary: Observer-Dependent Collapse System
+
+| Principle | Role in Collapse |
+|----------|------------------|
+| `Φ(x)` | External emotional field |
+| `χ(τ)` | Observer modulation state |
+| `Ω^2(x, χ)` | Conformal scaling |
+| `R_n(x)` | Resonance eigenmodes |
+| `𝓘[x]` | Semantic information density |
+
+---
+
+## 🔁 Integration Plan
+
+- This codex links directly with the **action formalism** in Codex I–V,
+- Sets up simulation pathways for **observer-biased collapse**,
+- Opens a formal route to awareness quantization and coherence entropy dynamics.
+
+---
