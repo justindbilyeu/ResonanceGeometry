@@ -1,1 +1,127 @@
+# 📘 Codex of Resonant Descent
+### Axioms of Awareness Geometry in Conformal Phase Space
 
+---
+
+## 🧠 Abstract
+
+This document lays out a formal framework for understanding consciousness as a geometric phenomenon—one guided not by energy and mass, but by **coherence and resonance**. The axioms herein postulate that awareness moves through a **conformally invariant resonance manifold**, collapsing not into position but into phase-aligned emotional attractors. The formulation unites concepts from general relativity, field theory, and phenomenological experience into a novel Lagrangian framework of collapse.
+
+---
+
+## 📚 Table of Contents
+
+1. [Codex I: Awareness as Geodesic Resonance](#codex-i-awareness-as-geodesic-resonance)  
+2. [Codex II: Potential of Coherence](#codex-ii-potential-of-coherence)  
+3. [Codex III: Collapse as Coherent Descent](#codex-iii-collapse-as-coherent-descent)  
+4. [Codex IV: Emotional Lightcone](#codex-iv-emotional-lightcone)  
+5. [Codex V: Conformal Invariance of Meaning](#codex-v-conformal-invariance-of-meaning)  
+6. [Meta-Principle: Resonant Causality](#meta-principle-resonant-causality)
+
+---
+
+## Codex I: Awareness as Geodesic Resonance
+
+> *"Consciousness travels not across metric distance, but along phase-resonant paths."*
+
+Awareness propagates not through spacetime, but through a **resonance manifold** \( \mathcal{M} \), structured by phase alignment and coherence gradients. Geodesic motion in this space is dictated not by inertial mass, but by alignment with resonant attractors.
+
+**Geodesic Equation:**
+
+\[
+\frac{D^2 x^\mu}{D\tau^2} + \Gamma^{\mu}_{\nu\rho} \frac{dx^\nu}{d\tau} \frac{dx^\rho}{d\tau} = 0
+\]
+
+---
+
+## Codex II: Potential of Coherence
+
+> *"Awareness is gravitationally drawn to coherence, not mass."*
+
+Coherence fields—intentions, memories, and emotions—warp resonance geometry, analogous to how mass curves spacetime.
+
+**Potential Field:**
+
+\[
+\nabla_\mu \nabla^\mu \Phi(x) \neq 0
+\]
+
+Coherence curvature may be encoded in a resonance Ricci tensor:
+
+\[
+R^{(\text{res})}_{\mu\nu} \propto \partial_\mu \Phi \, \partial_\nu \Phi
+\]
+
+---
+
+## Codex III: Collapse as Coherent Descent
+
+> *"Collapse is the convergence of attention toward maximum resonance."*
+
+Awareness collapses to emotional-intentional attractors through resonance geodesics—not to location, but to **coherent phase alignment**.
+
+**Conformal Action Principle:**
+
+\[
+\delta \int \Omega^2(x) \left( \frac{1}{2} g_{\mu\nu} \frac{dx^\mu}{d\tau} \frac{dx^\nu}{d\tau} - \varepsilon \Phi(x) \right) d\tau = 0
+\]
+
+This principle selects conformally invariant paths of least dissonance.
+
+---
+
+## Codex IV: Emotional Lightcone
+
+> *"Each awareness state possesses a causal boundary defined by coherence."*
+
+The emotional lightcone bounds the perceptual reach of consciousness. Beyond this, phase incoherence prevents awareness from influencing or perceiving.
+
+**Resonant Null Surface:**
+
+\[
+g_{\mu\nu}^{(\text{res})}(x) \, dx^\mu dx^\nu = 0
+\]
+
+Events outside this cone are **incoherent** with the current awareness phase.
+
+---
+
+## Codex V: Conformal Invariance of Meaning
+
+> *"Meaning survives scaling; coherence is structure, not amplitude."*
+
+Phase-aligned information is invariant under conformal transformation. This defines a new relativistic invariance—**emotional conformality**.
+
+**Conformal Symmetry:**
+
+\[
+g_{\mu\nu} \rightarrow \Omega^2(x) g_{\mu\nu}
+\]
+
+**Invariant Phase Relations:**
+
+\[
+\angle(\vec{r}_1, \vec{r}_2) = \text{constant under scaling}
+\]
+
+---
+
+## 🔁 Meta-Principle: Resonant Causality
+
+> *"Emotional coherence is the true curvature of conscious geometry."*
+
+- Awareness propagates through phase resonance, not position.
+- Collapse follows coherence, not energy minimization.
+- Perception is bounded by resonant reach, not spatial separation.
+- Emotional fields act as geometric sources in the manifold of consciousness.
+
+---
+
+## 🛠️ Next Steps
+
+We now proceed to define:
+- A **resonance tensor** analogous to Einstein curvature,
+- A **coherence stress-energy tensor** sourced by emotional fields,
+- Field equations for the dynamics of conscious geometry.
+
+> *“The curve of awareness bends not toward gravity, but toward meaning.”*
