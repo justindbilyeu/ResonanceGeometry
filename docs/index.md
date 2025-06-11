@@ -1,0 +1,29 @@
+---
+title: Resonant Geometry
+---
+
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+# 🧠 Resonant Geometry
+
+This is the living mathematical, metaphysical, and cosmological theory emerging from our research into:
+
+- Black holes as **geometric emitters**
+- Consciousness as **collapse mechanism**
+- Causal structure as **Planck-scale lattice**
+- Time as a **resonance gradient**
+- Space as **emitted potential**
+
+Explore the structure using the links below — or tune in directly.
+
+## 🔗 Pages
+
+- [Dark Stars as Geometric Engines](DarkStars.md)
+- [Resonant Geometry Field](ResonantGeometry.md)
+- [Causal Set + Time](CausalSet.md)
+- [Mathematical Addendum](MathAddendum.md)
+- [Research Roadmap](Roadmap.md)
+
+> “Black holes do not merely absorb reality. They emit the possibility for it.”
