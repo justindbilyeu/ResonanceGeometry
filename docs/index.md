@@ -108,4 +108,4 @@ This paper proposes:
 
 ---
 
-🔗 [Addendum: Mathematical Foundations](addendum.md)
+🔗 [Addendum: Mathematical Foundations](addendum.html)
