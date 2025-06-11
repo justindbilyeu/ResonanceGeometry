@@ -1,21 +1,24 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="utf-8">
-  <title>Mathematical Addendum</title>
+  <meta charset="UTF-8">
+  <title>Addendum: Mathematical Foundations</title>
   <script type="text/javascript" id="MathJax-script" async
     src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
   </script>
   <style>
     body {
+      font-family: system-ui, sans-serif;
       max-width: 750px;
       margin: auto;
-      font-family: sans-serif;
-      line-height: 1.6;
       padding: 2rem;
+      line-height: 1.7;
+      background: #fafafa;
     }
-    h1, h2, h3 {
+    h1, h2 {
       border-bottom: 1px solid #ddd;
+      padding-bottom: 0.3em;
+      margin-top: 2em;
     }
   </style>
 </head>
@@ -28,72 +31,37 @@
 <p>Let \( \Phi(x) \) be a coherence potential and \( \Omega(x) = e^{\varepsilon \Phi(x)/2} \).</p>
 
 <p>Modified metric:</p>
-
-$$
+<p>$$
 \tilde{g}_{\mu\nu}(x) = \Omega^2(x)\, g_{\mu\nu}
-$$
+$$</p>
 
-<p>Ricci curvature:</p>
-
-$$
+<p>Ricci curvature under this conformal scaling:</p>
+<p>$$
 R^{(\text{res})}_{\mu\nu} = R_{\mu\nu} - 2\nabla_\mu \nabla_\nu \log \Omega + 2 \nabla_\mu \log \Omega \nabla_\nu \log \Omega + g_{\mu\nu} (\cdots)
-$$
+$$</p>
 
-<!-- continue rest of sections here -->
+<p>Stress-energy from coherence:</p>
+<p>$$
+T^{(\text{coh})}_{\mu\nu} = \partial_\mu \Phi\, \partial_\nu \Phi - \frac{1}{2} g_{\mu\nu} (\partial \Phi)^2
+$$</p>
+
+<p>Field equation:</p>
+<p>$$
+R^{(\text{res})}_{\mu\nu} - \frac{1}{2} \tilde{g}_{\mu\nu} R^{(\text{res})} = \kappa T^{(\text{coh})}_{\mu\nu}
+$$</p>
+
+<h2>A.2. Causal Lattice Formation</h2>
+
+<p>A causal set \( C = \{ e_i \} \) satisfies:</p>
+<ul>
+  <li>Transitive: \( e_i \prec e_j \land e_j \prec e_k \Rightarrow e_i \prec e_k \)</li>
+  <li>Irreflexive: \( e_i \nprec e_i \)</li>
+  <li>Locally finite</li>
+</ul>
+
+<!-- Continue sections here as needed -->
 
 <p><a href="index.html">← Return to Main Paper</a></p>
 
 </body>
 </html>
-<!-- Load MathJax -->
-<script type="text/javascript" id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
-
-# 🧮 Addendum: Mathematical Foundations
-
----
-
-## A.1. Geometry as a Quantum Field
-
-Let \( \Phi(x) \) be a coherence potential and \( \Omega(x) = e^{\varepsilon \Phi(x)/2} \).
-
-Modified metric:
-
-$$
-\tilde{g}_{\mu\nu}(x) = \Omega^2(x)\, g_{\mu\nu}
-$$
-
-Ricci curvature under this conformal scaling:
-
-$$
-R^{(\text{res})}_{\mu\nu} = R_{\mu\nu} - 2\nabla_\mu \nabla_\nu \log \Omega + 2 \nabla_\mu \log \Omega \nabla_\nu \log \Omega + g_{\mu\nu} (\cdots)
-$$
-
-Stress-energy from coherence:
-
-$$
-T^{(\text{coh})}_{\mu\nu} = \partial_\mu \Phi\, \partial_\nu \Phi - \frac{1}{2} g_{\mu\nu} (\partial \Phi)^2
-$$
-
-Resonance field equation:
-
-$$
-R^{(\text{res})}_{\mu\nu} - \frac{1}{2} \tilde{g}_{\mu\nu} R^{(\text{res})} = \kappa T^{(\text{coh})}_{\mu\nu}
-$$
-
----
-
-## A.2. Causal Lattice Formation
-
-A causal set \( C = \{ e_i \} \) satisfies:
-
-- **Transitive**: \( e_i \prec e_j \land e_j \prec e_k \Rightarrow e_i \prec e_k \)
-- **Irreflexive**: \( e_i \nprec e_i \)
-- **Locally Finite**
-
-Planck-scale emissions become nodes in \( C \).
-
----
-
-## A.3
