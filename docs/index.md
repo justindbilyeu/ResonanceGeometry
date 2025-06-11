@@ -107,5 +107,4 @@ This paper proposes:
 > What we call void is an engine of becoming.”*
 
 ---
-
 🔗 [Addendum: Mathematical Foundations](addendum.html)
