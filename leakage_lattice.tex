@@ -1,0 +1,135 @@
+\documentclass[11pt]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{authblk}
+\usepackage{listings}
+\usepackage{geometry}
+\geometry{margin=1in}
+
+\title{From Fermion Leakage to Decoherence:\\ A Lattice Interpretation of Warped Extra Dimensions}
+\author[1]{Justin Bilyeu}
+\author[2]{Sage Research Collective}
+\affil[1]{\texttt{justin@example.com}}
+\affil[2]{\texttt{sage@example.com}}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+We reinterpret the leakage of brane--localized fermions into a warped extra
+dimension as coherent amplitude diffusion into a discrete lattice of
+possibility nodes, $\Phi_n(x)$.  By replacing the geometric coordinate $y$
+with a site index $n$, we recast the 5--D Dirac equation as a tight--binding
+model.  This relabeling maintains unitarity while eliminating the need for
+physical extra geometry.  Through a three--site quiver model, we show how the
+lowest--energy fermion mode transitions from brane--localized to delocalized
+as the bulk mass $M$ exceeds a threshold.  We derive an effective decoherence
+rate $\Gamma(M,k)$ for a brane--local probe, showing that leakage into the
+lattice directly induces observable dissipation.  These results suggest that
+extra--dimensional phenomenology can be mimicked by non--geometric information
+redistribution, offering testable predictions in lattice--based analog
+systems.
+\end{abstract}
+
+\section{Framework Summary}
+\begin{itemize}
+    \item \textbf{Motivation:} In Randall--Sundrum (RS) models, bulk fermions
+    ``leak'' from a four--dimensional brane into a warped five--dimensional
+    spacetime.
+    \item \textbf{Proposal:} Replace the fifth dimension $y$ with a discrete
+    index $n$ over a coherence lattice $\Phi_n(x)$.  Spatial leakage becomes
+    amplitude diffusion.
+    \item \textbf{Current conservation:} The 5--D current component $J^{y}$
+    maps to a lattice derivative $\partial_n \Pi_n(x)$ that tracks possibility
+    volume across nodes.
+\end{itemize}
+
+\section{Three--Site Quiver Model}
+\subsection{Hamiltonian}
+\[
+H \;=\;
+\begin{pmatrix}
+M & k & 0 \\\\
+k & 0 & k \\\\
+0 & k & 0
+\end{pmatrix},
+\]
+where site $n=0$ represents the brane and $n=1,2$ are coherence nodes.
+
+\subsection{Leakage Transition}
+Figure~\ref{fig:leakage} shows the off--brane probability of the ground state
+as a function of bulk mass $M$ at fixed hopping $k=1$.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.6\linewidth]{leakage_vs_M.png}
+    \caption{Off--brane probability (sites 1+2) for the lowest--energy mode.
+    The transition from localization to delocalization occurs near
+    $M\!\sim\!k$.}
+    \label{fig:leakage}
+\end{figure}
+
+\section{Leakage Phase Diagram}
+A sweep over $M\in[0,4]$ and $k\in[0,2]$ yields the heat map in
+Fig.~\ref{fig:phase}, revealing the bound, transitional, and delocalized
+regions.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.7\linewidth]{leakage_phase.png}
+    \caption{Leakage probability across parameter space.  Dark wedge: bound
+    zero--mode.  Gradient band: leakage onset.  Bright plateau: full
+    delocalization.}
+    \label{fig:phase}
+\end{figure}
+
+\section{Decoherence Rate $\Gamma(M,k)$}
+Coupling a brane--local probe to the first two coherence nodes produces an
+effective Lindblad rate
+\[
+\Gamma(M,k)\;=\;\sum_{n=1}^{2} \frac{g_n^{2}}{\Lambda_n^{2}}\,|\psi_n|^{2},
+\]
+with representative couplings $g_1=1$, $g_2=0.8$, $\Lambda_{1,2}=1$.
+The resulting heat map is shown in Fig.~\ref{fig:gamma}.
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.7\linewidth]{gamma_phase.png}
+    \caption{Decoherence rate $\Gamma(M,k)$ (arbitrary units) over the same
+    parameter grid.}
+    \label{fig:gamma}
+\end{figure}
+
+\section{Significance \& Outlook}
+\begin{itemize}
+    \item \textbf{Geometry--free extra dimensions:} Extra--dimensional leakage
+    can be reproduced by non--geometric information redistribution.
+    \item \textbf{Experimental handle:} $\Gamma(M,k)$ provides a falsifiable
+    link to cold--atom or superconducting--qubit platforms.
+    \item \textbf{Next steps:} Extend to larger lattices to recover KK--like
+    towers, animate amplitude drift, and fit decoherence rates to specific
+    analogue systems.
+\end{itemize}
+
+\section*{Code Listing}
+\begin{lstlisting}[language=Python, basicstyle=\ttfamily\small]
+# Python snippet: compute Gamma(M,k) on a 3-site lattice
+import numpy as np
+import matplotlib.pyplot as plt
+
+def gamma(M, k, g1=1.0, g2=0.8, Lambda1=1.0, Lambda2=1.0):
+    H = np.array([[M,k,0],[k,0,k],[0,k,0]], float)
+    evals, evecs = np.linalg.eigh(H)
+    psi = evecs[:, np.argmin(np.abs(evals))]
+    p1, p2 = abs(psi[1])**2, abs(psi[2])**2
+    return g1**2/Lambda1**2 * p1 + g2**2/Lambda2**2 * p2
+\end{lstlisting}
+
+\section*{Acknowledgements}
+We thank the ResonanceGeometry community for insightful discussions.
+
+\bibliographystyle{unsrt}
+\bibliography{refs}
+\end{document}
