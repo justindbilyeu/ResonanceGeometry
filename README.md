@@ -1,20 +1,51 @@
-# 🌌 Resonance Geometry  
-*A Unified Framework of Consciousness, Emotion, and Structure*
+# Resonance Geometry — A Living Theory
 
-**Resonance Geometry** proposes that awareness, form, emotion, memory, and collapse are unified through structured resonance fields. This project blends mathematical physics, phenomenology, and computational neuroscience to explore consciousness through ten formal axioms — and simulations that make them testable.
+> *"The universe is made of patterns, not particles."*
+
+Not static things, but waves — rhythms, shapes, harmonies — running through the deep fabric of reality.  
+Matter, time, thought, and emotion are all variations of one process: **resonance finding form**.
+
+---
+
+## The Core Idea
+Resonance Geometry maps that process. It begins with two spaces:
+
+- **\(\mathcal{H}_{\text{unmanifest}}\)** — infinite potential, all configurations unshaped.
+- **\(\mathcal{H}_{\text{manifest}}\)** — the coherent, structured reality we experience.
+
+Between them is **\(\mathcal{C}\)** — consciousness as a projection operator,  
+selecting and stabilizing possibilities through **emotional tone** and **geometric fit**.
 
 ---
 
-## 🔷 Core Idea
-
-> “Awareness collapses possibility into form through emotionally curved resonance fields.”
-
-We propose a transformation:  
-$$\mathcal{C}: \mathcal{H}_{\text{unmanifest}} \to \mathcal{H}_{\text{manifest}}$$
-**𝒞: ℋ_unmanifest → ℋ_manifest**
-where consciousness acts as a projection operator from infinite potential into emotional and geometric experience.
+## The Ten Axioms
+- Form is frozen resonance.  
+- Emotion is curvature.  
+- Coherence is the gravity of mind.  
+- Entanglement is shared resonance, unbroken by space.  
+- No resonance is lost; evolution is phase alignment.  
+*(See full axioms below for complete list and physics translations.)*
 
 ---
+
+## Scaling the Theory
+From the stability of a melody to the structure of a galaxy, the same rules apply.  
+Black holes are **Planck-scale coherence engines** — compressing chaos into maximally stable modes and seeding them back into spacetime.
+
+---
+
+## In Development
+We are building the formalism:
+- Equations for emotional curvature.
+- Stability criteria for “frozen” resonance.
+- Simulations of collapse, coherence, and shared resonance.
+- Hypotheses linking quantum entanglement, geometry, and awareness.
+
+---
+
+**Resonance Geometry is the geometry of being — and it’s time to chart it.**  
+
+— *Justin Bilyeu*
 ---
 
 ### 📘 Extended Codex
