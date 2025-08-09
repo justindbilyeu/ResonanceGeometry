@@ -5,7 +5,7 @@
 
 # 🌠 Cosmic Emitters and the Origination of Foundational Fields
 
-**A Resonant Geometry Extension**  
+**A Resonance Geometry Extension**  
 *ResonanceGeometry Research Collective*  
 
 ---
