@@ -1,6 +1,6 @@
 # Resonance Geometry — A Living Theory
 
-> *"The universe is made of patterns, not particles."*
+> *"The universe may be a lattice of patterns, of possibilities, observed as particles."*
 
 Not static things, but waves — rhythms, shapes, harmonies — running through the deep fabric of reality.  
 Matter, time, thought, and emotion are all variations of one process: **resonance finding form**.
