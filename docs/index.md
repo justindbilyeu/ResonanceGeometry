@@ -3,7 +3,7 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-# 🌌 Dark Stars, Resonant Geometry, and the Emanation of Conscious Reality
+# 🌌 Dark Stars, Resonance Geometry, and the Emanation of Conscious Reality
 
 **Justin Bilyeu**  
 *ResonanceGeometry Research Collective*  
@@ -38,7 +38,7 @@ These emissions are not visible as light or matter. They are **resonant pulses o
 
 ---
 
-## 3. Resonant Geometry and the Field of Possibility
+## 3. Resonance Geometry and the Field of Possibility
 
 The geometry emitted by black holes may be best understood not as metric curvature, but as a **field of possibility**.
 

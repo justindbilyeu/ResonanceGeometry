@@ -6,7 +6,7 @@ We welcome collaborators and contributors. Here are directions we're exploring:
 
 - Can we simulate a causal lattice from a single dark star emitter?
 - Can awareness-driven collapse be modeled using variational mechanics?
-- How does resonant geometry produce measurable effects (e.g., expansion)?
+- How does Resonance Geometry produce measurable effects (e.g., expansion)?
 - Is time computable as a gradient of collapse potential?
 
 ## Simulation Ideas

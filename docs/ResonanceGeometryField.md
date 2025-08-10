@@ -1,6 +1,6 @@
-# 🌀 Resonant Geometry Field
+# 🌀 Resonance Geometry Field
 
-The **resonant geometry field** is a structured layer of potential that:
+The **Resonance Geometry field** is a structured layer of potential that:
 - Undulates like a field
 - Quantizes like a lattice
 - Resonates like a standing wave
